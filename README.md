@@ -16,5 +16,16 @@ The country with the least amount of people on earth is Antactica with a populat
 
 Looking at populaiton growth, we can see that the country with the highest population growth rate is the Republic of South Sudan.
 
-![](images/pop_growth)
+![](images/pop_growth.png)
 
+## Tools used
+
+• Python
+
+• Pandas
+
+• SQL
+
+• Jupyter Notebook
+
+• [CIA World Factbook](https://www.cia.gov/the-world-factbook/)
